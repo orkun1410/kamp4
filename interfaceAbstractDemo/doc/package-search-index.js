@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"Abstract"},{"l":"Adapters"},{"l":"All Packages","u":"allpackages-index.html"},{"l":"Concrete"},{"l":"Entities"},{"l":"interfaceAbstructDemo"},{"l":"tr.gov.nvi.tckimlik.WS"}];updateSearchResults();
